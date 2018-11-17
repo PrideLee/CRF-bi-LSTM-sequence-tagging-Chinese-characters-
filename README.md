@@ -28,3 +28,5 @@ Fig. precision, recall, F1 values
 - recall=0.908613;
 - f1=0.929270.
 (After 25 iterations)
+
+&emsp;&emsp;If you want to know more about the LSTM+CRF model, please to read [sequence labelling.md](https://github.com/PrideLee/CRF-bi-LSTM-sequence-tagging-Chinese-characters-/blob/master/introduction/sequence%20labelling.md) or [click here](https://www.zhihu.com/people/peterlee-19-97/posts).
