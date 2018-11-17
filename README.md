@@ -1,7 +1,7 @@
 # CRF-bi-LSTM-sequence-tagging-Chinese-characters-
 &emsp;&emsp;We use Python3.6+tensorflow1.12.0 to coding the bi-LSTM+CRF network structure and realizing the sequence tagging for chinese characters.
 
-&emsp;&emsp;(1)Raw data preprocessing. Calling ` ` `vocab_build()` ` ` function to convert the data of .txt format to .pkl format. And initilazing the word vectors.(We set the dinmension of vectors is 300)
+&emsp;&emsp;(1)Raw data preprocessing. Calling ` ` `vocab_build()` ` ` function to convert the data of .txt format to .pkl format. And initilazing the word vectors.(We set the dimension of vectors is 300)
 
 &emsp;&emsp;(2)Designing the network structure and hyper-parameters, calling ` ` `main.py` ` ` train and test model.
 
