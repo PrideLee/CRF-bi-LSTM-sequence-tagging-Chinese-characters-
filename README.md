@@ -15,7 +15,7 @@
 - optimizer=Adam;
 - ...
 
-&emsp;&emsp; After 25 epoch, the precision, recall, F1 values of test set as shoun below.
+&emsp;&emsp; After 25 epochs, the precision, recall, F1 values of test set as shoun below.
 
 <center>
 
